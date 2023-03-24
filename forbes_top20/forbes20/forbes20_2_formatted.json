@@ -1,0 +1,182 @@
+[
+ {
+   "Name": "Berkshire Hathaway",
+   "Industry": "Diversified Financials",
+   "Founded": 1939,
+   "Headquarters": "Omaha, Nebraska",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Warren Edward Buffett",
+   "Employees": "3,72,000"
+ },
+ {
+   "Name": "Agricultural Bank of China",
+   "Industry": "Banking",
+   "Founded": 1979,
+   "Headquarters": "Beijing",
+   "Country": "China",
+   "Chief_Executive_Officer": "Gu Shu",
+   "Employees": "4,55,174"
+ },
+ {
+   "Name": "ICBC",
+   "Industry": "Banking",
+   "Founded": 1984,
+   "Headquarters": "Beijing",
+   "Country": "China",
+   "Chief_Executive_Officer": "Shu Gu",
+   "Employees": "4,34,089"
+ },
+ {
+   "Name": "Bank of America",
+   "Industry": "Banking",
+   "Founded": 1904,
+   "Headquarters": "Charlotte, North Carolina",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Brian Moynihan",
+   "Employees": "1,66,400"
+ },
+ {
+   "Name": "Amazon",
+   "Industry": "E-commerce",
+   "Founded": 1994,
+   "Headquarters": "Seattle, Washington",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Andy Jassy",
+   "Employees": "16,08,000"
+ },
+ {
+   "Name": "China Construction Bank",
+   "Industry": "Banking",
+   "Founded": 2014,
+   "Headquarters": "Beijing",
+   "Country": "China",
+   "Chief_Executive_Officer": "Wang Zuji",
+   "Employees": "3,49,671"
+ },
+ {
+   "Name": "Saudi Arabian Oil Company (Saudi Aramco)",
+   "Industry": "Oil & Gas Operations",
+   "Founded": 1933,
+   "Headquarters": "Dhahran",
+   "Country": "Saudi Arabia",
+   "Chief_Executive_Officer": "Amin bin Hasan Al-Nasser",
+   "Employees": "68,493"
+ },
+ {
+   "Name": "Apple",
+   "Industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",
+   "Founded": 1976,
+   "Headquarters": "Cupertino, California",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Tim Cook",
+   "Employees": "1,64,000"
+ },
+ {
+   "Name": "JPMorgan Chase",
+   "Industry": "Banking",
+   "Founded": 2000,
+   "Headquarters": "New York, New York",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Jamie Dimon",
+   "Employees": "2,70,000"
+ },
+ {
+   "Name": "Toyota Motor",
+   "Industry": "Automotive (Automotive and Suppliers)",
+   "Founded": 1986,
+   "Headquarters": "Toyota",
+   "Country": "Japan",
+   "Chief_Executive_Officer": "Akio Toyoda",
+   "Employees": "3,72,817"
+ },
+ {
+   "Name": "Alphabet",
+   "Industry": "IT, Internet, Software & Services",
+   "Founded": 1998,
+   "Headquarters": "Mountain View, California",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Sundar Pichai",
+   "Employees": "1,56,500"
+ },
+ {
+   "Name": "Microsoft",
+   "Industry": "",
+   "Founded": 1975,
+   "Headquarters": "Redmond, Washington",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Satya Nadella",
+   "Employees": "221000"
+ },
+ {
+   "Name": "Bank of China",
+   "Industry": "Banking",
+   "Founded": 1929,
+   "Headquarters": "Beijing",
+   "Country": "China",
+   "Chief_Executive_Officer": "Wang Jiang",
+   "Employees": "3,06,322"
+ },
+ {
+   "Name": "Samsung Group",
+   "Industry": "Electronics",
+   "Founded": 1938,
+   "Headquarters": "Suwon-Si",
+   "Country": "South Korea",
+   "Chief_Executive_Officer": "Dr. Kye Hyun Kyung",
+   "Employees": "20,000"
+ },
+ {
+   "Name": "ExxonMobil",
+   "Industry": "Construction, Oil & Gas Operations, Mining and Chemicals",
+   "Founded": 1999,
+   "Headquarters": "Irving, Texas",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Darren W. Woods",
+   "Employees": "63,000"
+ },
+ {
+   "Name": "Wells Fargo",
+   "Industry": "Banking",
+   "Founded": 1852,
+   "Headquarters": "San Francisco, California",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Charles William Scharf",
+   "Employees": "2,47,848"
+ },
+ {
+   "Name": "Shell",
+   "Industry": "Construction, Oil & Gas Operations, Mining and Chemicals",
+   "Founded": 1911,
+   "Headquarters": "London",
+   "Country": "United Kingdom",
+   "Chief_Executive_Officer": "Ben van Beurden",
+   "Employees": "82,000"
+ },
+ {
+   "Name": "Ping An Insurance Group",
+   "Industry": "Insurance",
+   "Founded": 1988,
+   "Headquarters": "Shenzhen",
+   "Country": "China",
+   "Chief_Executive_Officer": "Yonglin Xie Sin Yin Tan",
+   "Employees": "3,55,982"
+ },
+ {
+   "Name": "AT&T",
+   "Industry": "Telecommunications Services, Cable Supplier",
+   "Founded": 1876,
+   "Headquarters": "Dallas, Texas",
+   "Country": "United States",
+   "Chief_Executive_Officer": "John Stankey",
+   "Employees": "1,69,880"
+ },
+ {
+   "Name": "Verizon Communications",
+   "Industry": "Telecommunications Services, Cable Supplier",
+   "Founded": 1983,
+   "Headquarters": "New York, New York",
+   "Country": "United States",
+   "Chief_Executive_Officer": "Hans Vestberg",
+   "Employees": "1,05,376"
+ }
+]
